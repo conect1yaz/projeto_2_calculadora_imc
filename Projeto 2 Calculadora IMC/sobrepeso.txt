@@ -1,0 +1,9 @@
+Sobrepeso
+
+Descrição: Representa peso acima do recomendado para a altura, podendo ser um sinal de acúmulo excessivo de gordura corporal.
+
+Recomendações: Melhorar a alimentação, reduzir alimentos ultraprocessados, aumentar a prática de exercícios físicos e evitar o sedentarismo.
+
+Riscos: Maior probabilidade de hipertensão, diabetes tipo 2, colesterol elevado e problemas articulares.
+
+Observação: A adoção precoce de hábitos saudáveis pode prevenir a progressão para a obesidade.
